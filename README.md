@@ -1,2 +1,2 @@
 ## Hello world by Daffa Athallah
-![Alt text](relative/images/1.jpeg?raw=true "Title")
+<img src="/images/1.jpeg" title="Screenshot dari HP"/>
